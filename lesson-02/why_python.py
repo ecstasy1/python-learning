@@ -1,0 +1,5 @@
+print("Python is easy to read.")
+print("Python helps humans communicate with computers.")
+print("Python can be used for many different kinds of applications.")
+print("I want to use Python to solve problems.")
+print("Python can be used to create games.")
