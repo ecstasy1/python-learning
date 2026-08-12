@@ -35,7 +35,9 @@ python-learning/
 -## Progress
 
 - ✅ Lesson 1 – Introduction to Python and `print()`
-- ✅ Lesson 2 – Introduction to Python (Why Python)
+- ✅ Lesson 2 – Introduction to Python (Why Python)- 
+  ✅ Lesson 3 – Setting Up Your Environment and Bash Basics
+
 
 ---
 
