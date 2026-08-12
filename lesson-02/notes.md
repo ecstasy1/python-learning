@@ -89,3 +89,33 @@ You can use Python to build websites, games, AI, automation tools, and much more
 - Data Science
 - Automation
 - Game development
+
+
+---
+
+## SyntaxError vs NameError
+
+### SyntaxError
+
+A SyntaxError happens when Python cannot understand the structure or grammar of the code.
+
+Example:
+
+```python
+print(Hello, World!)
+```
+
+### NameError
+
+A NameError happens when Python encounters a name that has not been defined or is not recognized.
+
+Example:
+
+```python
+print(Hello)
+```
+
+### Easy way to remember
+
+- **SyntaxError** = Python doesn't understand the **structure**.
+- **NameError** = Python doesn't know the **name**.
