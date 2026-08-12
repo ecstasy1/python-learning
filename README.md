@@ -32,8 +32,10 @@ python-learning/
 
 ## Progress
 
+-## Progress
+
 - ✅ Lesson 1 – Introduction to Python and `print()`
-- ⬜ Lesson 2 – Coming Soon
+- ✅ Lesson 2 – Introduction to Python (Why Python)
 
 ---
 
