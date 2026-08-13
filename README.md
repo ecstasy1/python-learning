@@ -39,6 +39,8 @@ python-learning/
 - ✅ Lesson 3 – Setting Up Your Environment and Bash Basics
 - ✅ Lesson 4 – How Python Runs Your Code
 
+- ✅ Lesson 5 – Python Keywords and Syntax
+
 
 ---
 
