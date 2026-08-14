@@ -1,3 +1,10 @@
+# This is my corrected login system.
+# The username must be correct before the password is requested.
+# If the username is wrong, it asks for the username again.
+# If the password is wrong, it asks for the password again.
+# Username and password share 4 total attempts.
+# If the login is correct, the program prints WELCOME.
+
 username = "admin"
 password = "admin"
 
