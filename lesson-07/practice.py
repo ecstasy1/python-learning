@@ -50,5 +50,3 @@ score = 75
 passing_score = 50
 
 print( score > passing_score )
-
- 
