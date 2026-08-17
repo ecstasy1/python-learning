@@ -29,11 +29,15 @@ Build real projects
 Practice using Git and GitHub
 Develop professional coding habits
 Progress
-✅ Lesson 1 – Introduction to Python and print()
-✅ Lesson 2 – Introduction to Python (Why Python)
-✅ Lesson 3 – Setting Up Your Environment and Bash Basics
-✅ Lesson 4 – How Python Runs Your Code
-✅ Lesson 5 – Python Keywords and Syntax
-✅ Lesson 6 – Variables and Primitive Types
+
+## Progress
+
+- ✅ Lesson 1 – Introduction to Python and `print()`
+- ✅ Lesson 2 – Introduction to Python (Why Python)
+- ✅ Lesson 3 – Setting Up Your Environment and Bash Basics
+- ✅ Lesson 4 – How Python Runs Your Code
+- ✅ Lesson 5 – Python Keywords and Syntax
+- ✅ Lesson 6 – Variables and Data Types
+- ✅ Lesson 7 – Operators and Expressions
 
 Learning one lesson at a time and building a strong foundation.
